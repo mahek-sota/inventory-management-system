@@ -1,0 +1,25 @@
+.dashboard-left-column {
+    border-right: 0.4rem solid #2fa1ff; /* 1px border */
+    width:15rem;
+    height: auto;
+  }
+  
+  .dashboard-left-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .dashboard-left-column ul li {
+    padding: 0.625rem; /* 10px padding */
+  }
+  
+  /* Additional styles for active item if needed */
+  .dashboard-left-column ul li.active {
+    background-color: #f0f0f0; /* Change background color for active item */
+  }
+
+  .dashboard-container{
+    display:flex;
+  }
+  

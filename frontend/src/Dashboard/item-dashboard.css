@@ -1,0 +1,17 @@
+table{
+    padding: 5rem;
+    align-items: center;
+    justify-content: center;
+    width:auto;
+    margin: 0;
+}
+
+td{
+    padding: 0.5rem;
+    margin: 0.7rem;
+}
+
+.flexContainer{
+    display: flex;
+    flex-direction: column;
+}
